@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TwFbS6IyKzR4tYBwkiEqw6ciCeQDNhHe9wGgGe0x8YM=",
+  "Source": "webAppi",
+  "BasePath": "_content/webAppi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PSE\\Desktop\\test\\webAppi\\webAppi\\webAppi.csproj": {}
+    "C:\\Users\\PSE\\Desktop\\test\\web\\WebApiTest\\webAppi\\webAppi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PSE\\Desktop\\test\\webAppi\\webAppi\\webAppi.csproj": {
+    "C:\\Users\\PSE\\Desktop\\test\\web\\WebApiTest\\webAppi\\webAppi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PSE\\Desktop\\test\\webAppi\\webAppi\\webAppi.csproj",
+        "projectUniqueName": "C:\\Users\\PSE\\Desktop\\test\\web\\WebApiTest\\webAppi\\webAppi.csproj",
         "projectName": "webAppi",
-        "projectPath": "C:\\Users\\PSE\\Desktop\\test\\webAppi\\webAppi\\webAppi.csproj",
+        "projectPath": "C:\\Users\\PSE\\Desktop\\test\\web\\WebApiTest\\webAppi\\webAppi.csproj",
         "packagesPath": "C:\\Users\\PSE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PSE\\Desktop\\test\\webAppi\\webAppi\\obj\\",
+        "outputPath": "C:\\Users\\PSE\\Desktop\\test\\web\\WebApiTest\\webAppi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
